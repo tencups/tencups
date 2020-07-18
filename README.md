@@ -14,5 +14,5 @@ I'm a student from the DMV area interested in creating change with my passions i
 - Exploring careers in the intersection of software development and music/arts administration through my mentors 🌟
 
 ## Ways to reach out me 
-- 📧 michaelwwang17@gmail.com
+- 📧 [Email](michaelwwang17@gmail.com)
 - 💼 [Linkedin](https://www.linkedin.com/in/michael-wang-0327209a/)
