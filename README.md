@@ -1,4 +1,4 @@
-### Hey there 👋
+# Hey there 👋
 
 ## About me 😄
 I'm a student from the DMV area interested in creating change with my passions in software engineering, data analysis and the arts, especially music. 
