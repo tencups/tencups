@@ -6,6 +6,7 @@ I'm a student from the DMV area interested in creating change with my passions i
 ## What I'm currently working on 🔭
 - Developing the hackathon site for Hack For The People 💻
 - Working on the frontend for a educational platform for the Ukraine Public School System 📚
+- Maintaining the website for a one-stop shop for all things nonprofits, NPO CORE 👥
 - Creating and analyzing data visualizations based on COVID-19 related tweets and other sources of data 📊
 
 ## What I'm doing outside of coding 🌱
