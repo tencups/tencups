@@ -1,7 +1,7 @@
 # Hey there 👋
 
 
-[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=tencups)](https://github.com/anuraghazra/github-readme-stats)
+[![Michael's Github Stats](https://github-readme-stats.vercel.app/api?username=tencups)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## About me 😄
